@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite1" duration-ms="29456" started-at="2015-12-27T16:35:28Z" finished-at="2015-12-27T16:35:57Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="29456" started-at="2015-12-27T16:35:28Z" finished-at="2015-12-27T16:35:57Z">
+      <class name="teamworktests.TestAddTaskToTaskList">
+        <test-method status="PASS" signature="setup()[pri:0, instance:teamworktests.TestAddTaskToTaskList@2eee9593]" name="setup" is-config="true" duration-ms="12735" started-at="2015-12-27T16:35:28Z" finished-at="2015-12-27T16:35:40Z">
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:teamworktests.TestAddTaskToTaskList@2eee9593]" name="test1" duration-ms="16711" started-at="2015-12-27T16:35:40Z" finished-at="2015-12-27T16:35:57Z">
+        </test-method> <!-- test1 -->
+      </class> <!-- teamworktests.TestAddTaskToTaskList -->
+    </test> <!-- test1 -->
+  </suite> <!-- suite1 -->
+</testng-results>
